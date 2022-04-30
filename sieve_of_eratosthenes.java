@@ -25,6 +25,7 @@ public class sieve_of_eratosthenes {
                 if(prime[i] == true){
                     System.out.print(i+1 + " ");
                 }
+                System.out.println();
             }
         }
        
